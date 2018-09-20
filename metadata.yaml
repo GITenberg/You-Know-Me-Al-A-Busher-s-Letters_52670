@@ -1,0 +1,32 @@
+_repo: You-Know-Me-Al-A-Busher-s-Letters_52670
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Lardner, Ring
+    aliases:
+    - Lardner, Ring W. (Ring Wilmer)
+    - Lardner, Ring Wilmer
+    birthdate: 1885
+    deathdate: 1933
+    gutenberg_agent_id: '2457'
+    url: http://www.gutenberg.org/2009/agents/2457
+    wikipedia: http://en.wikipedia.org/wiki/Ring_Lardner
+description: ''
+gutenberg_issued: '2016-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52670'
+  lccn: '16015595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+- !lcsh 'Baseball stories'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Baseball players -- Fiction'
+- GITenberg
+title: 'You Know Me Al: A Busher''s Letters'
+url: http://www.gutenberg.org/ebooks/52670
