@@ -1,5 +1,5 @@
 _repo: You-Know-Me-Al-A-Busher-s-Letters_52670
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   adapter:
     agent_name: Lardner, Ring
@@ -11,7 +11,12 @@ contributor:
     gutenberg_agent_id: '2457'
     url: http://www.gutenberg.org/2009/agents/2457
     wikipedia: http://en.wikipedia.org/wiki/Ring_Lardner
+covers:
+- cover_type: archival
+  image_path: 52670-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52670#You-Know-Me-Al-A-Busher-s-Letters
 gutenberg_issued: '2016-07-29'
 gutenberg_type: Text
 identifiers:
